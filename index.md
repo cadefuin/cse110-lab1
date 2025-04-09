@@ -86,7 +86,7 @@ My favorite video games have inspired other interests, namely:
 - *Minecraft* was the birthplace of my love for programming, since I liked making minigames with command blocks.
 - *Hollow Knight* was an unforgettable experience (I'm looking at you, *Path of Pain*) and inspiration for some UI designs.
 - *NieR: Automata* inspired my interest in philosophy and UI design. Their menus were so appealing, I customized my desktop to look like it.
-<picture> ![NieR themed desktop](https://github.com/cadefuin/cse110-lab1/blob/vs-code-ui/images/nier-desktop-sample.gif) </picture>
+<picture> ![NieR themed desktop](/images/nier-desktop-sample.gif) </picture>
 
 > "A future is not given to you. It is something you must take for yourself"
 > \- Pod 042, *NieR: Automata*
