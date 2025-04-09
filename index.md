@@ -58,7 +58,10 @@ January 2024 - December 2024
 - Redesigned interfaces according to playtesting feedback
 - Reduced asset file sizes by 50% by designing tileable interfaces
 
-(Note: *Athenaeum* has undergone further development since its itch.io release)
+Our itch.io release is quite dated; we've improved the game since then. Our progress is as follows:
+- [x] create Minimum Viable Product
+- [x] create Minimum Marketable product
+- [ ] publish on steam
 
 View the complete portfolio [here](vgdc.md).
 
