@@ -1,2 +1,2 @@
 # cse110-lab1
-C is pretty cool :)
+[Github User Page](https://cadefuin.github.io/cse110-lab1/)
